@@ -1,4 +1,4 @@
-# About
+# Hunter
 this is just a bunch of personal and school affiliated projects. My bests are clarence, Music Poster, and Song Swears
 
 <!---
